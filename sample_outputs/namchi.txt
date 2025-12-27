@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM NAMCHI
+======================================================================
+
+Source: Namchi, Sikkim
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Baba Harbhajan Singh Temple
+   Location: Gangtok, Sikkim
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+2. Tsomgo Lake
+   Location: Gangtok, Sikkim
+   Category: Lake
+   Rating: 4.5
+   Weekend Score: 0.933
+   (Proximity: 1.0, Rating: 0.89, Category: 0.95)
+
+3. Buddha Park
+   Location: Ravangla, Sikkim
+   Category: Park
+   Rating: 4.8
+   Weekend Score: 0.886
+   (Proximity: 1.0, Rating: 0.97, Category: 0.50)
+
+4. Pemayangtse Monastery
+   Location: Pelling, Sikkim
+   Category: Monastery
+   Rating: 4.6
+   Weekend Score: 0.857
+   (Proximity: 1.0, Rating: 0.91, Category: 0.50)
+
+5. Rumtek Monastery
+   Location: Gangtok, Sikkim
+   Category: Monastery
+   Rating: 4.6
+   Weekend Score: 0.857
+   (Proximity: 1.0, Rating: 0.91, Category: 0.50)
+

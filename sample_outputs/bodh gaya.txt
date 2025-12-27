@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM BODH GAYA
+======================================================================
+
+Source: Bodh Gaya, Bihar
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Takhat Shri Harimandir Ji Patna Sahib
+   Location: Patna, Bihar
+   Category: Gurudwara
+   Rating: 4.7
+   Weekend Score: 0.871
+   (Proximity: 1.0, Rating: 0.94, Category: 0.50)
+
+2. Budhha Smriti Park
+   Location: Patna, Bihar
+   Category: Park
+   Rating: 4.4
+   Weekend Score: 0.829
+   (Proximity: 1.0, Rating: 0.86, Category: 0.50)
+
+3. Sanjay Gandhi Biological Park
+   Location: Patna, Bihar
+   Category: Zoo
+   Rating: 4.3
+   Weekend Score: 0.814
+   (Proximity: 1.0, Rating: 0.83, Category: 0.50)
+
+4. Pangong Tso
+   Location: Leh, Ladakh
+   Category: Lake
+   Rating: 4.9
+   Weekend Score: 0.810
+   (Proximity: 0.4, Rating: 1.00, Category: 0.95)
+
+5. Radhanagar Beach
+   Location: Havelock Island, Andaman and Nicobar Islands
+   Category: Beach
+   Rating: 4.8
+   Weekend Score: 0.806
+   (Proximity: 0.4, Rating: 0.97, Category: 1.00)
+

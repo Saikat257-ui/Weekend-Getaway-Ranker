@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM DWARKA
+======================================================================
+
+Source: Dwarka, Gujarat
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Somnath Temple
+   Location: Somnath, Gujarat
+   Category: Temple
+   Rating: 4.8
+   Weekend Score: 0.956
+   (Proximity: 1.0, Rating: 0.97, Category: 0.85)
+
+2. Sabarmati Ashram
+   Location: Ahmedabad, Gujarat
+   Category: Historical
+   Rating: 4.6
+   Weekend Score: 0.937
+   (Proximity: 1.0, Rating: 0.91, Category: 0.90)
+
+3. Kankaria Lake
+   Location: Ahmedabad, Gujarat
+   Category: Lake
+   Rating: 4.5
+   Weekend Score: 0.933
+   (Proximity: 1.0, Rating: 0.89, Category: 0.95)
+
+4. Akshardham
+   Location: Gandhinagar, Gujarat
+   Category: Temple
+   Rating: 4.6
+   Weekend Score: 0.927
+   (Proximity: 1.0, Rating: 0.91, Category: 0.85)
+
+5. Laxmi Vilas Palace
+   Location: Vadodara, Gujarat
+   Category: Palace
+   Rating: 4.4
+   Weekend Score: 0.909
+   (Proximity: 1.0, Rating: 0.86, Category: 0.90)
+

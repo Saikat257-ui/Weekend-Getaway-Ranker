@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM MANDU
+======================================================================
+
+Source: Mandu, Madhya Pradesh
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Orchha Fort
+   Location: Orchha, Madhya Pradesh
+   Category: Fort
+   Rating: 4.8
+   Weekend Score: 0.966
+   (Proximity: 1.0, Rating: 0.97, Category: 0.90)
+
+2. Mahakaleshwar Jyotirlinga
+   Location: Ujjain, Madhya Pradesh
+   Category: Temple
+   Rating: 4.8
+   Weekend Score: 0.956
+   (Proximity: 1.0, Rating: 0.97, Category: 0.85)
+
+3. Gwalior Fort
+   Location: Gwalior, Madhya Pradesh
+   Category: Fort
+   Rating: 4.5
+   Weekend Score: 0.923
+   (Proximity: 1.0, Rating: 0.89, Category: 0.90)
+
+4. Rajwada Palace
+   Location: Indore, Madhya Pradesh
+   Category: Palace
+   Rating: 4.4
+   Weekend Score: 0.909
+   (Proximity: 1.0, Rating: 0.86, Category: 0.90)
+
+5. Narmada Udgam Temple
+   Location: Amarkantak, Madhya Pradesh
+   Category: Temple
+   Rating: 4.4
+   Weekend Score: 0.899
+   (Proximity: 1.0, Rating: 0.86, Category: 0.85)
+

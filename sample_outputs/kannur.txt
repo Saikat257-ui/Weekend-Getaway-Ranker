@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM KANNUR
+======================================================================
+
+Source: Kannur, Kerala
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Varkala Beach
+   Location: Varkala, Kerala
+   Category: Beach
+   Rating: 4.6
+   Weekend Score: 0.957
+   (Proximity: 1.0, Rating: 0.91, Category: 1.00)
+
+2. Alappuzha Beach
+   Location: Alappuzha, Kerala
+   Category: Beach
+   Rating: 4.5
+   Weekend Score: 0.943
+   (Proximity: 1.0, Rating: 0.89, Category: 1.00)
+
+3. Padmanabhaswamy Temple
+   Location: Thiruvananthapuram, Kerala
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+4. Kovalam Beach
+   Location: Kovalam, Kerala
+   Category: Beach
+   Rating: 4.4
+   Weekend Score: 0.929
+   (Proximity: 1.0, Rating: 0.86, Category: 1.00)
+
+5. Bekal Fort
+   Location: Bekal, Kerala
+   Category: Fort
+   Rating: 4.5
+   Weekend Score: 0.923
+   (Proximity: 1.0, Rating: 0.89, Category: 0.90)
+

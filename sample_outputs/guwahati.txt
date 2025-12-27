@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM GUWAHATI
+======================================================================
+
+Source: Guwahati, Assam
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Sivasagar Sivadol
+   Location: Sivasagar, Assam
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+2. Hayagriva Madhava Temple
+   Location: Hajo, Assam
+   Category: Temple
+   Rating: 4.5
+   Weekend Score: 0.913
+   (Proximity: 1.0, Rating: 0.89, Category: 0.85)
+
+3. Majuli Island
+   Location: Majuli, Assam
+   Category: River Island
+   Rating: 4.7
+   Weekend Score: 0.871
+   (Proximity: 1.0, Rating: 0.94, Category: 0.50)
+
+4. Manas National Park
+   Location: Manas, Assam
+   Category: National Park
+   Rating: 4.6
+   Weekend Score: 0.857
+   (Proximity: 1.0, Rating: 0.91, Category: 0.50)
+
+5. Kaziranga National Park
+   Location: Kaziranga, Assam
+   Category: National Park
+   Rating: 4.5
+   Weekend Score: 0.843
+   (Proximity: 1.0, Rating: 0.89, Category: 0.50)
+

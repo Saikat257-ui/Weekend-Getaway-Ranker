@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM CHANDIGARH
+======================================================================
+
+Source: Chandigarh, Punjab
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Golden Temple (Harmandir Sahib)
+   Location: Amritsar, Punjab
+   Category: Religious Site
+   Rating: 4.9
+   Weekend Score: 0.900
+   (Proximity: 1.0, Rating: 1.00, Category: 0.50)
+
+2. Jallianwala Bagh
+   Location: Amritsar, Punjab
+   Category: Memorial
+   Rating: 4.8
+   Weekend Score: 0.886
+   (Proximity: 1.0, Rating: 0.97, Category: 0.50)
+
+3. Wagah Border
+   Location: Amritsar, Punjab
+   Category: Border Crossing
+   Rating: 4.8
+   Weekend Score: 0.886
+   (Proximity: 1.0, Rating: 0.97, Category: 0.50)
+
+4. Pangong Tso
+   Location: Leh, Ladakh
+   Category: Lake
+   Rating: 4.9
+   Weekend Score: 0.810
+   (Proximity: 0.4, Rating: 1.00, Category: 0.95)
+
+5. Radhanagar Beach
+   Location: Havelock Island, Andaman and Nicobar Islands
+   Category: Beach
+   Rating: 4.8
+   Weekend Score: 0.806
+   (Proximity: 0.4, Rating: 0.97, Category: 1.00)
+

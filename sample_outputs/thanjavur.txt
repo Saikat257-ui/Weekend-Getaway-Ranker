@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM THANJAVUR
+======================================================================
+
+Source: Thanjavur, Tamil Nadu
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Meenakshi Amman Temple
+   Location: Madurai, Tamil Nadu
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+2. Marudamalai Temple
+   Location: Coimbatore, Tamil Nadu
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+3. Nataraja Temple
+   Location: Chidambaram, Tamil Nadu
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+4. Ramanathaswamy Temple
+   Location: Rameswaram, Tamil Nadu
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+5. Ramanathaswamy Temple
+   Location: Rameswaram, Tamil Nadu
+   Category: Temple
+   Rating: 4.6
+   Weekend Score: 0.927
+   (Proximity: 1.0, Rating: 0.91, Category: 0.85)
+

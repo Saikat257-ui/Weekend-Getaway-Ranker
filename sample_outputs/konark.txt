@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM KONARK
+======================================================================
+
+Source: Konark, Odisha
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Jagannath Temple
+   Location: Puri, Odisha
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+2. Lingaraj Temple
+   Location: Bhubaneswar, Odisha
+   Category: Temple
+   Rating: 4.6
+   Weekend Score: 0.927
+   (Proximity: 1.0, Rating: 0.91, Category: 0.85)
+
+3. Tara Tarini Temple
+   Location: Berhampur, Odisha
+   Category: Temple
+   Rating: 4.6
+   Weekend Score: 0.927
+   (Proximity: 1.0, Rating: 0.91, Category: 0.85)
+
+4. Barabati Fort
+   Location: Cuttack, Odisha
+   Category: Fort
+   Rating: 4.5
+   Weekend Score: 0.923
+   (Proximity: 1.0, Rating: 0.89, Category: 0.90)
+
+5. Chandipur Beach
+   Location: Balasore, Odisha
+   Category: Beach
+   Rating: 4.2
+   Weekend Score: 0.900
+   (Proximity: 1.0, Rating: 0.80, Category: 1.00)
+

@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM PORT BLAIR
+======================================================================
+
+Source: Port Blair, Andaman and Nicobar Islands
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Radhanagar Beach
+   Location: Havelock Island, Andaman and Nicobar Islands
+   Category: Beach
+   Rating: 4.8
+   Weekend Score: 0.986
+   (Proximity: 1.0, Rating: 0.97, Category: 1.00)
+
+2. Bharatpur Beach
+   Location: Neil Island, Andaman and Nicobar Islands
+   Category: Beach
+   Rating: 4.5
+   Weekend Score: 0.943
+   (Proximity: 1.0, Rating: 0.89, Category: 1.00)
+
+3. Limestone Caves
+   Location: Baratang Island, Andaman and Nicobar Islands
+   Category: Natural Feature
+   Rating: 4.4
+   Weekend Score: 0.829
+   (Proximity: 1.0, Rating: 0.86, Category: 0.50)
+
+4. Pangong Tso
+   Location: Leh, Ladakh
+   Category: Lake
+   Rating: 4.9
+   Weekend Score: 0.810
+   (Proximity: 0.4, Rating: 1.00, Category: 0.95)
+
+5. Orchha Fort
+   Location: Orchha, Madhya Pradesh
+   Category: Fort
+   Rating: 4.8
+   Weekend Score: 0.786
+   (Proximity: 0.4, Rating: 0.97, Category: 0.90)
+

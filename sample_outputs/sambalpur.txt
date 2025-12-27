@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM SAMBALPUR
+======================================================================
+
+Source: Sambalpur, Odisha
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Jagannath Temple
+   Location: Puri, Odisha
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+2. Sun Temple
+   Location: Konark, Odisha
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+3. Lingaraj Temple
+   Location: Bhubaneswar, Odisha
+   Category: Temple
+   Rating: 4.6
+   Weekend Score: 0.927
+   (Proximity: 1.0, Rating: 0.91, Category: 0.85)
+
+4. Tara Tarini Temple
+   Location: Berhampur, Odisha
+   Category: Temple
+   Rating: 4.6
+   Weekend Score: 0.927
+   (Proximity: 1.0, Rating: 0.91, Category: 0.85)
+
+5. Barabati Fort
+   Location: Cuttack, Odisha
+   Category: Fort
+   Rating: 4.5
+   Weekend Score: 0.923
+   (Proximity: 1.0, Rating: 0.89, Category: 0.90)
+

@@ -1,0 +1,42 @@
+======================================================================
+TOP 5 WEEKEND GETAWAYS FROM GUNTUR
+======================================================================
+
+Source: Guntur, Andhra Pradesh
+Ranking based on: Rating (50%), Proximity (30%), Category (20%)
+
+1. Rishikonda Beach
+   Location: Visakhapatnam, Andhra Pradesh
+   Category: Beach
+   Rating: 4.5
+   Weekend Score: 0.943
+   (Proximity: 1.0, Rating: 0.89, Category: 1.00)
+
+2. Kanaka Durga Temple
+   Location: Vijayawada, Andhra Pradesh
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+3. Mallikarjuna Swamy Temple
+   Location: Srisailam, Andhra Pradesh
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+4. Amaravathi Temple
+   Location: Amravati, Andhra Pradesh
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
+5. Simhachalam Temple
+   Location: Vizianagaram, Andhra Pradesh
+   Category: Temple
+   Rating: 4.7
+   Weekend Score: 0.941
+   (Proximity: 1.0, Rating: 0.94, Category: 0.85)
+
