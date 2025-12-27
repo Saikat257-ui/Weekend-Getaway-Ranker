@@ -175,7 +175,7 @@ weekend-getaway-ranker/
 
 ```bash
 
-# Create and activate virtual environment (optional)
+# Create and activate virtual environment (optional but recommended)
 python -m venv venv
 
 # After that activate it with this command:
