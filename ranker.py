@@ -6,7 +6,6 @@ No fabricated data - all logic derived from available columns.
 
 import pandas as pd
 import os
-from typing import List, Dict
 
 # State proximity mapping (neighboring states for geographic approximation)
 STATE_NEIGHBORS = {

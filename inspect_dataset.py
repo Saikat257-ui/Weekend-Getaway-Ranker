@@ -5,7 +5,6 @@ Run this first to verify your dataset before running the ranker.
 """
 
 import pandas as pd
-import os
 
 def inspect_dataset():
     """Inspect the travel dataset and display key information."""
