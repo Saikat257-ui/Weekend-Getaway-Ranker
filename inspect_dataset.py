@@ -73,16 +73,21 @@ def inspect_dataset():
     else:
         print("[WARNING] No obvious rating columns found")
     
-    # Check for key cities
+    # Check for city coverage
     print("\n" + "="*70)
-    print("KEY CITIES CHECK")
+    print("CITY COVERAGE CHECK")
     print("="*70)
-    key_cities = ['Delhi', 'Mumbai', 'Bangalore', 'Kolkata', 'Chennai']
+    
     if 'City' in df.columns:
-        for city in key_cities:
+        cities = sorted(df['City'].dropna().unique().tolist())
+        print(f"Found {len(cities)} unique cities:")
+        print("-" * 40)
+        
+        for city in cities:
             count = df[df['City'].str.contains(city, case=False, na=False)].shape[0]
-            status = "[OK]" if count > 0 else "[NO]"
-            print(f"{status} {city}: {count} destinations")
+            print(f"[OK] {city}: {count} destinations")
+    else:
+        print("[ERROR] 'City' column not found in dataset")
     
     print("\n" + "="*70)
     print("DATASET READY FOR RANKING!")
