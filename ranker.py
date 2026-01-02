@@ -36,7 +36,6 @@ WEEKEND_CATEGORIES = {
     'Palace': 0.9,
 }
 
-
 def load_dataset(filepath: str) -> pd.DataFrame:
     """Load and inspect the travel dataset."""
     df = pd.read_csv(filepath)
@@ -44,14 +43,12 @@ def load_dataset(filepath: str) -> pd.DataFrame:
     print(f"Columns: {list(df.columns)}")
     return df
 
-
 def get_state_from_city(df: pd.DataFrame, city: str) -> str:
     """Extract state for a given city from dataset."""
     city_data = df[df['City'].str.lower() == city.lower()]
     if not city_data.empty:
         return city_data.iloc[0]['State']
     return None
-
 
 def calculate_proximity_weight(source_state: str, dest_state: str) -> float:
     """
@@ -80,7 +77,6 @@ def normalize_column(series: pd.Series) -> pd.Series:
     if max_val == min_val:
         return pd.Series([0.5] * len(series), index=series.index)
     return (series - min_val) / (max_val - min_val)
-
 
 def calculate_weekend_score(df: pd.DataFrame, source_city: str) -> pd.DataFrame:
     """
@@ -127,13 +123,11 @@ def calculate_weekend_score(df: pd.DataFrame, source_city: str) -> pd.DataFrame:
     
     return df_filtered
 
-
 def get_top_destinations(df: pd.DataFrame, source_city: str, top_n: int = 5) -> pd.DataFrame:
     """Get top N weekend destinations from source city."""
     scored_df = calculate_weekend_score(df, source_city)
     top_destinations = scored_df.nlargest(top_n, 'weekend_score')
     return top_destinations
-
 
 def format_output(df: pd.DataFrame, source_city: str, top_destinations: pd.DataFrame) -> str:
     """Format results as readable text."""
@@ -160,7 +154,6 @@ def format_output(df: pd.DataFrame, source_city: str, top_destinations: pd.DataF
     
     return output
 
-
 def save_output(content: str, filename: str):
     """Save output to sample_outputs directory."""
     os.makedirs('sample_outputs', exist_ok=True)
@@ -182,8 +175,8 @@ def main():
     # Load dataset
     df = load_dataset(dataset_path)
     
-    # Generate rankings for all unique cities in the dataset
-    cities = df['City'].dropna().unique().tolist()
+    # Generate rankings for three major cities
+    cities = df.sample(3)['City'].tolist()
     
     for city in cities:
         try:

@@ -203,7 +203,7 @@ python ranker.py
 
 This will:
 1. Load the dataset
-2. Calculate weekend scores for all cities present in the dataset
+2. Calculate weekend scores for random three cities present in the dataset
 3. Display top 5 destinations for each city
 4. Save results to `sample_outputs/` folder
 

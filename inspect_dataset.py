@@ -35,23 +35,26 @@ def inspect_dataset():
     
     # Sample data
     print("\n" + "="*70)
-    print("SAMPLE DATA (First 3 rows)")
+    print("SAMPLE DATA (Random 10 rows)")
     print("="*70)
-    print(df.head(3).to_string())
+    print(df.sample(10).to_string())
     
     # Unique values for key columns
     print("\n" + "="*70)
     print("UNIQUE VALUES")
     print("="*70)
-    
+
+    # Print first 10 unique values for 'State' column
     if 'State' in df.columns:
         print(f"\nUnique States ({df['State'].nunique()}):")
         print(df['State'].value_counts().head(10).to_string())
     
+    # Print first 10 unique values for 'City' column
     if 'City' in df.columns:
         print(f"\n\nUnique Cities ({df['City'].nunique()}):")
         print(df['City'].value_counts().head(10).to_string())
     
+    # Print first 10 unique values for 'Type' column
     if 'Type' in df.columns:
         print(f"\n\nDestination Types ({df['Type'].nunique()}):")
         print(df['Type'].value_counts().head(10).to_string())
