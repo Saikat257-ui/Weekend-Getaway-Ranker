@@ -34,7 +34,6 @@ weekend_score = 0.5 × rating_score + 0.3 × proximity_score + 0.2 × category_s
 ```
 *Note: The weights were chosen to balance experience quality (ratings), travel feasibility (proximity), and weekend suitability (category), while keeping the logic simple and explainable.*
 
-
 ## 🔍 Assumptions & Constraints
 
 ### Assumptions Made
